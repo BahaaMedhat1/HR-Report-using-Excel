@@ -88,7 +88,7 @@ Employee attrition can significantly impact a company’s performance. This dash
 
 ---
 
-## About the Author  
+## Contact  
 **Bahaa Medhat Wanas**  
 - [LinkedIn](https://www.linkedin.com/in/bahaa-wanas-9797b923a)  
 - **Email**: bahaawanas427@gmail.com  
