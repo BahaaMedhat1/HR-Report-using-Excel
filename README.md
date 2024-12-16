@@ -3,7 +3,7 @@
 ## Overview  
 This **HR Dashboard**, built using **Microsoft Excel**, provides a clear analysis of **employee attrition**. It visualizes both the **number** and **distribution** of employee attritions, helping HR teams understand key trends and patterns to make informed decisions.
 
-![HR Dashboard](Excel Dashboard.png) 
+![HR Dashboard](Excel_Dashboard.png) 
 ---
 
 ## Purpose  
